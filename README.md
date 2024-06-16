@@ -7,3 +7,5 @@
 </div>
 
 听好了，乡巴佬们，等我当上新的国王，我将制定新的税法。吸气要扣税，呼气要扣税，憋住气也要扣税
+
+[github-sub-title:img]: [https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=mq白.](https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=neverforward)
