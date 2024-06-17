@@ -12,6 +12,6 @@
  [![](https://github-readme-stats.vercel.app/api?username=neverforward&show_icons=true&theme=tokyonight)](https://github.com/neverforward/)
  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=neverforward&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=tokyonight)](https://github.com/neverforward/)
  
- <img scr="./bg.jpg" width="%100" hight="%100">
+ ![](bg.jpg)
  
 </div>
