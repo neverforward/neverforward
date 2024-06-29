@@ -3,7 +3,7 @@
  ![](https://readme-typing-svg.demolab.com?font=Segoe+Script&pause=1000&width=435&lines=neverforward&center=true&size=27)
 
  [![MTL](https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE-MTL-yello?logo=codeproject)](https://github.com/neverforward/MTL)
- ![](https://img.shields.io/badge/编译器-msvc-purple?logo=visualstudio&logoColor=white)
+ ![](https://img.shields.io/badge/编译器-msvc-purple?logo=visualstudio&logoColor=purple)
  ![](https://img.shields.io/badge/C++版本-C++23-blue?logo=cplusplus&logoColor=blue)
  
  ![](https://img.shields.io/badge/爱好-吃屎-orange)
