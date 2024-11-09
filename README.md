@@ -10,7 +10,7 @@
  ![](https://img.shields.io/badge/%E5%96%9C%E6%AC%A2-%E6%8B%89%E5%B1%8E-red)
 
  [![](https://github-readme-stats.vercel.app/api?username=neverforward&show_icons=true&theme=tokyonight)](https://github.com/neverforward/)
- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=neverforward&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=tokyonight)](https://github.com/neverforward/)
+ [![](https://github-readme-stats.vercel.app/api/top-langs/?username=neverforward&layout=compact&langs_count=6&text_color=fff&icon_color=fff&theme=tokyonight)](https://github.com/neverforward/)
  
  ![](bg.jpg)
  
